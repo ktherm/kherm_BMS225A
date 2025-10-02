@@ -1,5 +1,4 @@
-# kherm_BMS225A
-
+# katie herm 
 - This is my repo. beep boop beep boop
 
 - `code` All scripts used in analysis 
